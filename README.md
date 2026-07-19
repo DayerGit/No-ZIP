@@ -56,7 +56,8 @@
    ```bash
    git clone https://github.com/DayerGit/No-ZIP.git
 
-  2. Откройте решение .sln и выполните полную сборку.
+2. Создайте файл решения .sln в Visual Studio.
+3. Соберите проект.
      
 ### Запуск
 
